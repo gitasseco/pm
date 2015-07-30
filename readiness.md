@@ -14,8 +14,8 @@ What it has to do with sales?
 ---------------------------------
 When this happens sales is happy as their job is much easier. Customers show interest in our products, they understand how our products are different, they 
 If customers would buy our products online by clicking on online forms and pay with credit cards we. 
-The purpose of solution sales 
-The purpose of account management is to maintain long term relationship with customer (account) on mutual benefit. This requires building trust and not only pushing what we have.
+The purpose of solution sales is to focus on customer specific situation, pains and expectations and to demonstrate evidence that shows how our solution will help.
+The purpose of account management is to maintain long term relationship with customer (account) on mutual benefit. This requires listening to customers, building trust and not only pushing what we have.
 
 
 How do we market existing products?
@@ -31,23 +31,25 @@ In-house alternatives
 Workarounds
 Status quo alternatives
 
-### Define customer segments and buyer personae
-Most important things to most banks but not all things to all banks. Therefore we have to say now to some geographies and banks.
+### Define customer segments
+Most important things to most banks but not all things to all banks. Therefore we have to say now to some geographies and banks. 
 
-We are not targeting banks that:
-
-- Are based outside SEE region
-- Have more than 10 million customers
-- Insist on Oracle database
+> **Example:**
+We **are not** targeting banks that:
+- Operate outside Balkans  (YU, RO, BG, AL, TR)
+- Have  more than 10 million customers
 - Want bespoke solution with transfer of IP rights
 
-
-### Analyse jobs, pains & gains for each persona
 ### Define triggers and drives for each customer segment
-### Complete a buyer persona profile with demographics
-(education, job role, reporting to, buying role)
+### Specify buyer persona demographics, topics, jobs, pains & gains
+education, job role, reporting to, buying role
 ### Define offering elements (products & services)
+What products are 
 ### Define value propositions (pain relievers & gain creators)
+One for whole offering
+One for each offering element such as module, service
+One for each pain reliever and gain creator
+
 ### Define positioning for each customer segment
 ### Develop messages for each audience
 ####Anatomy of a Message
